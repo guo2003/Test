@@ -8,9 +8,10 @@ https://blog.csdn.net/xhmj12/article/details/105828196
 （安卓11来了，快！起来填坑了）
 
 
-平台版本    API级别（SDK版本）    版本代号    发布时间
-Android 11    30          R           2020.9
-Android 10.0    29       Q         2019.8
+平台版本 | API级别（SDK版本） | 版本代号 | 发布时间
+--|--|--|--
+Android | 11 | 30 | R | 2020.9
+Android | 10.0 | 29 | Q | 2019.8
 
 ```
 @RequiresApi(api = Build.VERSION_CODES.R)
